@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "825118764301",
+    "firebase_url": "https://proyectolaura251124-default-rtdb.firebaseio.com",
+    "project_id": "proyectolaura251124",
+    "storage_bucket": "proyectolaura251124.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:825118764301:android:12e02c964f752c8dca9444",
+        "android_client_info": {
+          "package_name": "com.example.login251124"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "825118764301-i7pv6ieq90u515ma6fbknev52octog53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgWorGtNqxit0PsTSsK46zxey4yayCQoc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "825118764301-i7pv6ieq90u515ma6fbknev52octog53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
